@@ -1,0 +1,71 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}\relax 
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Introdução}}{19}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivação}{20}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Objetivos}{21}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Objetivo Geral}{21}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos Específicos}{21}{subsection.1.2.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Fundamentação Teórica}}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Atas de Reunião}{23}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Inteligencia Artificial}{25}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Aprendizado de Máquina}{26}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Redes Neurais Artificiais (RNA)}{30}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Aprendizado Profundo}{34}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Processamento de Linguagem Natural}{37}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Arquitetura Transformer}{40}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Modelos de Linguagem de Grande Escala (LLMs)}{44}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Ollama}{47}{section.2.9}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Trabalhos Relacionados}}{50}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Automação e Análise Documental Jurídica com IA e PLN Tradicionais}{50}{section.3.1}%
+\contentsline {section}{\numberline {3.2}A Transformação com Modelos de Linguagem Pré-Treinados (PLMs) e LLMs}{51}{section.3.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Metodologia}}{53}{chapter.4}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Resultados}}{54}{chapter.5}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Conclusões e Trabalhos Futuros}}{55}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Contribuições do Trabalho}{55}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Limitações}{55}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Trabalhos Futuros}{56}{section.6.3}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{57}{section*.23}%
+\contentsline {chapter}{GLOSSÁRIO}{59}{section*.23}%
+\contentsline {chapter}{AP\^ENDICES}{60}{section*.23}%
+\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
+\renewcommand *{\cftappendixname }{\normalfont AP\^ENDICE \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\normalfont {Lorem Ipsum}}{61}{appendix.A}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\normalfont {Modelo de Capa}}{62}{appendix.B}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {C}\normalfont {Termo de Fiel Depositário}}{63}{appendix.C}%
+\contentsline {chapter}{ANEXOS}{64}{appendix.C}%
+\cftinsert {AAA}
+\renewcommand *{\cftappendixname }{ANEXO \space }
+\renewcommand *{\cftappendixname }{\normalfont ANEXO \space }
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {A}\normalfont {Exemplo de Anexo}}{65}{appendix.anexochapback.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\cftinsert {A}
+\contentsline {appendix}{\chapternumberline {B}\normalfont {Dinâmica das classes sociais}}{66}{appendix.anexochapback.2}%

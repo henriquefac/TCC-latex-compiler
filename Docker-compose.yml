@@ -1,0 +1,18 @@
+services:
+  miktex:
+    build:
+      context: .
+      args:
+        USERNAME: ${USERNAME}
+        UBUNTU_CODENAME: ${UBUNTU_CODENAME}
+    image: miktex:dev
+    container_name: miktex-container
+    volumes:
+      - .:/workdir
+      - miktex-cache:/home/${USERNAME}/.miktex
+    working_dir: /workdir
+    tty: true
+    stdin_open: true
+
+volumes:
+  miktex-cache:

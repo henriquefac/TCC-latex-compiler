@@ -1,0 +1,17 @@
+{
+  "name": "MiKTeX Dev Container",
+  "dockerComposeFile": ["../docker-compose.yml"],
+  "service": "miktex",
+  "workspaceFolder": "/workdir",
+  "remoteUser": "devuser",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "james-yu.latex-workshop"
+      ]
+    }
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+}

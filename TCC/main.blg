@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+Reallocating 'name_of_file' (item size: 1) to 35 items.
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: abntex2-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Database file #1: abntex2-options.bib
+Database file #2: elementos-pos-textuais/referencias.bib
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Warning--campo year vazio ou faltando em ollama__ollama_nodate
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 45 entries,
+            6714 wiz_defined-function locations,
+            1465 strings with 18492 characters,
+and the built_in function-call counts, 62556 in all, are:
+= -- 6515
+> -- 1749
+< -- 1246
++ -- 1949
+- -- 505
+* -- 4273
+:= -- 7589
+add.period$ -- 188
+call.type$ -- 47
+change.case$ -- 556
+chr.to.int$ -- 104
+cite$ -- 41
+duplicate$ -- 5313
+empty$ -- 2903
+format.name$ -- 2617
+if$ -- 13169
+int.to.chr$ -- 4
+int.to.str$ -- 3
+missing$ -- 892
+newline$ -- 228
+num.names$ -- 200
+pop$ -- 1118
+preamble$ -- 1
+purify$ -- 184
+quote$ -- 0
+skip$ -- 5736
+stack$ -- 1
+substring$ -- 2274
+swap$ -- 2141
+text.length$ -- 55
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2
+warning$ -- 1
+while$ -- 295
+width$ -- 0
+write$ -- 657
+(There was 1 warning)

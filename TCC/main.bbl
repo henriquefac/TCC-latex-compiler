@@ -1,0 +1,301 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Ansar, Goswami e Chakrabarti 2024]{ansar_survey_2024}
+\abntrefinfo{Ansar, Goswami e Chakrabarti}{ANSAR; GOSWAMI; CHAKRABARTI}{2024}
+{ANSAR, W.; GOSWAMI, S.; CHAKRABARTI, A. \textbf{A {Survey} on {Transformers}
+  in {NLP} with {Focus} on {Efficiency}}. arXiv, 2024.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2406.16893}.}
+
+\bibitem[Balestriero \textit{et al.} 2023]{balestriero_cookbook_2023}
+\abntrefinfo{Balestriero \textit{et al.}}{BALESTRIERO \textit{et al.}}{2023}
+{BALESTRIERO, R.; IBRAHIM, M.; SOBAL, V.; MORCOS, A.; SHEKHAR, S.; GOLDSTEIN,
+  T.; BORDES, F.; BARDES, A.; MIALON, G.; TIAN, Y.; SCHWARZSCHILD, A.; WILSON,
+  A.~G.; GEIPING, J.; GARRIDO, Q.; FERNANDEZ, P.; BAR, A.; PIRSIAVASH, H.;
+  LECUN, Y.; GOLDBLUM, M. \textbf{A {Cookbook} of {Self}-{Supervised}
+  {Learning}}. arXiv, 2023.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2304.12210}.}
+
+\bibitem[Boden 2018]{boden_artificial_2018}
+\abntrefinfo{Boden}{BODEN}{2018}
+{BODEN, M.~A. \textbf{Artificial intelligence: a very short introduction}.
+  [Oxford]: Oxford University Press, 2018.  (Very short introductions, 575).
+  OCLC: 1050938367.
+ISBN 9780191821448.}
+
+\bibitem[Brasil 1991]{brasil_lei_1991}
+\abntrefinfo{Brasil}{BRASIL}{1991}
+{BRASIL. \textbf{Lei nº 8.159, de 8 de janeiro de 1991}. 1991.
+Dispon{\'\i}vel em:
+  \url{https://www.planalto.gov.br/ccivil\_03/leis/l8159.htm}.}
+
+\bibitem[Brasil 2009]{brasil_lei_2009}
+\abntrefinfo{Brasil}{BRASIL}{2009}
+{BRASIL. \textbf{{LEI} {COMPLEMENTAR} {Nº} 131, {DE} 27 {DE} {MAIO} {DE}
+  2009}. 2009.
+Dispon{\'\i}vel em:
+  \url{https://www.planalto.gov.br/ccivil\_03/leis/lcp/lcp131.htm}.}
+
+\bibitem[Brasil 2011]{brasil_lei_2011}
+\abntrefinfo{Brasil}{BRASIL}{2011}
+{BRASIL. \textbf{{LEI} {Nº} 12.527, {DE} 18 {DE} {NOVEMBRO} {DE} 2011}. 2011.
+Dispon{\'\i}vel em:
+  \url{https://www.planalto.gov.br/ccivil\_03/\_ato2011-2014/2011/lei/l12527.htm}.}
+
+\bibitem[Brown \textit{et al.} 2020]{brown_language_2020}
+\abntrefinfo{Brown \textit{et al.}}{BROWN \textit{et al.}}{2020}
+{BROWN, T.~B.; MANN, B.; RYDER, N.; SUBBIAH, M.; KAPLAN, J.; DHARIWAL, P.;
+  NEELAKANTAN, A.; SHYAM, P.; SASTRY, G.; ASKELL, A.; AGARWAL, S.;
+  HERBERT-VOSS, A.; KRUEGER, G.; HENIGHAN, T.; CHILD, R.; RAMESH, A.; ZIEGLER,
+  D.~M.; WU, J.; WINTER, C.; HESSE, C.; CHEN, M.; SIGLER, E.; LITWIN, M.; GRAY,
+  S.; CHESS, B.; CLARK, J.; BERNER, C.; MCCANDLISH, S.; RADFORD, A.; SUTSKEVER,
+  I.; AMODEI, D. \textbf{Language {Models} are {Few}-{Shot} {Learners}}. arXiv,
+  2020.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2005.14165}.}
+
+\bibitem[Devlin \textit{et al.} 2018]{devlin_bert:_2018}
+\abntrefinfo{Devlin \textit{et al.}}{DEVLIN \textit{et al.}}{2018}
+{DEVLIN, J.; CHANG, M.-W.; LEE, K.; TOUTANOVA, K. \textbf{{BERT}:
+  {Pre}-training of {Deep} {Bidirectional} {Transformers} for {Language}
+  {Understanding}}. arXiv, 2018.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/1810.04805}.}
+
+\bibitem[Ferreira e Cambrussi 2015]{ferreira_redacao_2015}
+\abntrefinfo{Ferreira e Cambrussi}{FERREIRA; CAMBRUSSI}{2015}
+{FERREIRA, E.~D.; CAMBRUSSI, M.~F. Redação {Oficial}.
+2015.
+Dispon{\'\i}vel em: \url{http://educapes.capes.gov.br/handle/capes/145384}.}
+
+\bibitem[Fu \textit{et al.} 2023]{fu_decoder-only_2023}
+\abntrefinfo{Fu \textit{et al.}}{FU \textit{et al.}}{2023}
+{FU, Z.; LAM, W.; YU, Q.; SO, A. M.-C.; HU, S.; LIU, Z.; COLLIER, N.
+  \textbf{Decoder-{Only} or {Encoder}-{Decoder}? {Interpreting} {Language}
+  {Model} as a {Regularized} {Encoder}-{Decoder}}. arXiv, 2023.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2304.04052}.}
+
+\bibitem[Goodfellow, Bengio e Courville 2016]{goodfellow_deep_2016}
+\abntrefinfo{Goodfellow, Bengio e Courville}{GOODFELLOW; BENGIO;
+  COURVILLE}{2016}
+{GOODFELLOW, I.; BENGIO, Y.; COURVILLE, A. \textbf{Deep learning}. Cambridge,
+  Massachusetts: The MIT Press, 2016.  (Adaptive computation and machine
+  learning).
+ISBN 9780262035613.}
+
+\bibitem[Hastie, Tibshirani e Friedman 2009]{hastie_elements_2009}
+\abntrefinfo{Hastie, Tibshirani e Friedman}{HASTIE; TIBSHIRANI; FRIEDMAN}{2009}
+{HASTIE, T.; TIBSHIRANI, R.; FRIEDMAN, J.~H. \textbf{The elements of
+  statistical learning: data mining, inference, and prediction}. 2nd ed. ed.
+  New York, NY: Springer, 2009.  (Springer series in statistics).
+ISBN 9780387848570 9780387848587.}
+
+\bibitem[Hochreiter e Schmidhuber 1997]{hochreiter_long_1997}
+\abntrefinfo{Hochreiter e Schmidhuber}{HOCHREITER; SCHMIDHUBER}{1997}
+{HOCHREITER, S.; SCHMIDHUBER, J. Long {Short}-{Term} {Memory}.
+\textbf{Neural Computation}, v.~9, n.~8, p. 1735--1780, nov. 1997.
+ISSN 0899-7667, 1530-888X.
+Dispon{\'\i}vel em:
+  \url{https://direct.mit.edu/neco/article/9/8/1735-1780/6109}.}
+
+\bibitem[Hornik, Stinchcombe e White 1989]{hornik_multilayer_1989}
+\abntrefinfo{Hornik, Stinchcombe e White}{HORNIK; STINCHCOMBE; WHITE}{1989}
+{HORNIK, K.; STINCHCOMBE, M.; WHITE, H. Multilayer feedforward networks are
+  universal approximators.
+\textbf{Neural Networks}, v.~2, n.~5, p. 359--366, jan. 1989.
+ISSN 08936080.
+Dispon{\'\i}vel em:
+  \url{https://linkinghub.elsevier.com/retrieve/pii/0893608089900208}.}
+
+\bibitem[Jurafsky e Martin 2009]{jurafsky_speech_2009}
+\abntrefinfo{Jurafsky e Martin}{JURAFSKY; MARTIN}{2009}
+{JURAFSKY, D.; MARTIN, J.~H. \textbf{Speech and language processing: an
+  introduction to natural language processing, computational linguistics, and
+  speech recognition}. 2. ed. [nachdr.]. ed. Upper Saddle River, NJ: Prentice
+  Hall, 2009.
+ISBN 9780131873216.}
+
+\bibitem[Kandel 2013]{kandel_principles_2013}
+\abntrefinfo{Kandel}{KANDEL}{2013}
+{KANDEL, E.~R. (Ed.). \textbf{Principles of neural science}. 5th ed. ed. New
+  York: McGraw-Hill, 2013.
+ISBN 9780071390118.}
+
+\bibitem[Katz \textit{et al.} 2023]{katz_natural_2023}
+\abntrefinfo{Katz \textit{et al.}}{KATZ \textit{et al.}}{2023}
+{KATZ, D.~M.; HARTUNG, D.; GERLACH, L.; JANA, A.; II, M. J.~B. \textbf{Natural
+  {Language} {Processing} in the {Legal} {Domain}}. arXiv, 2023.
+ArXiv:2302.12039.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/2302.12039}.}
+
+\bibitem[Krizhevsky, Sutskever e Hinton 2017]{krizhevsky_imagenet_2017}
+\abntrefinfo{Krizhevsky, Sutskever e Hinton}{KRIZHEVSKY; SUTSKEVER;
+  HINTON}{2017}
+{KRIZHEVSKY, A.; SUTSKEVER, I.; HINTON, G.~E. {ImageNet} classification with
+  deep convolutional neural networks.
+\textbf{Communications of the ACM}, v.~60, n.~6, p. 84--90, maio 2017.
+ISSN 0001-0782, 1557-7317.
+Dispon{\'\i}vel em: \url{https://dl.acm.org/doi/10.1145/3065386}.}
+
+\bibitem[LeCun, Bengio e Hinton 2015]{lecun_deep_2015}
+\abntrefinfo{LeCun, Bengio e Hinton}{LECUN; BENGIO; HINTON}{2015}
+{LECUN, Y.; BENGIO, Y.; HINTON, G. Deep learning.
+\textbf{Nature}, v.~521, n.~7553, p. 436--444, maio 2015.
+ISSN 0028-0836, 1476-4687.
+Dispon{\'\i}vel em: \url{https://www.nature.com/articles/nature14539}.}
+
+\bibitem[Mahoney \textit{et al.} 2019]{mahoney_framework_2019}
+\abntrefinfo{Mahoney \textit{et al.}}{MAHONEY \textit{et al.}}{2019}
+{MAHONEY, C.~J.; ZHANG, J.; HUBER-FLIFLET, N.; GRONVALL, P.; ZHAO, H. \textbf{A
+  {Framework} for {Explainable} {Text} {Classification} in {Legal} {Document}
+  {Review}}. arXiv, 2019.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/1912.09501}.}
+
+\bibitem[McCarthy \textit{et al.} 1955]{mccarthy_proposal_1955}
+\abntrefinfo{McCarthy \textit{et al.}}{MCCARTHY \textit{et al.}}{1955}
+{MCCARTHY, J.; MINSKY, M.; ROCHESTER, N.; SHANNON, C. \textbf{A {Proposal} for
+  the {Dartmouth} {Summer} {Research} {Project} on {Artificial}
+  {Intelligence}}.
+[S.l.], 1955.}
+
+\bibitem[McCulloch e Pitts 1943]{mcculloch_logical_1943}
+\abntrefinfo{McCulloch e Pitts}{MCCULLOCH; PITTS}{1943}
+{MCCULLOCH, W.~S.; PITTS, W. A logical calculus of the ideas immanent in
+  nervous activity.
+\textbf{The Bulletin of Mathematical Biophysics}, v.~5, n.~4, p. 115--133, dez.
+  1943.
+ISSN 0007-4985, 1522-9602.
+Dispon{\'\i}vel em: \url{http://link.springer.com/10.1007/BF02478259}.}
+
+\bibitem[Mikolov \textit{et al.} 2013]{mikolov_distributed_2013}
+\abntrefinfo{Mikolov \textit{et al.}}{MIKOLOV \textit{et al.}}{2013}
+{MIKOLOV, T.; SUTSKEVER, I.; CHEN, K.; CORRADO, G.; DEAN, J.
+  \textbf{Distributed {Representations} of {Words} and {Phrases} and their
+  {Compositionality}}. arXiv, 2013.
+ArXiv:1310.4546 version: 1.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/1310.4546}.}
+
+\bibitem[Mitchell 2013]{mitchell_machine_2013}
+\abntrefinfo{Mitchell}{MITCHELL}{2013}
+{MITCHELL, T.~M. \textbf{Machine learning}. Nachdr. New York: McGraw-Hill,
+  2013.  ({McGraw}-{Hill} series in {Computer} {Science}).
+ISBN 9780070428072 9780071154673.}
+
+\bibitem[Moravec 1995]{moravec_mind_1995}
+\abntrefinfo{Moravec}{MORAVEC}{1995}
+{MORAVEC, H. \textbf{Mind children: the future of robot and human
+  intelligence}. 4. print. ed. Cambridge: Harvard Univ. Press, 1995.
+ISBN 9780674576186.}
+
+\bibitem[Nadkarni, Ohno-Machado e Chapman 2011]{nadkarni_natural_2011}
+\abntrefinfo{Nadkarni, Ohno-Machado e Chapman}{NADKARNI; OHNO-MACHADO;
+  CHAPMAN}{2011}
+{NADKARNI, P.~M.; OHNO-MACHADO, L.; CHAPMAN, W.~W. Natural language processing:
+  an introduction.
+\textbf{Journal of the American Medical Informatics Association}, v.~18, n.~5,
+  p. 544--551, set. 2011.
+ISSN 1067-5027, 1527-974X.
+Dispon{\'\i}vel em:
+  \url{https://academic.oup.com/jamia/article-lookup/doi/10.1136/amiajnl-2011-000464}.}
+
+\bibitem[Ollama]{ollama__ollama_nodate}
+\abntrefinfo{Ollama}{OLLAMA}{}
+{OLLAMA. \textbf{Ollama}.
+Dispon{\'\i}vel em: \url{https://ollama.com/}.}
+
+\bibitem[Pennington, Socher e Manning 2014]{pennington_glove:_2014}
+\abntrefinfo{Pennington, Socher e Manning}{PENNINGTON; SOCHER; MANNING}{2014}
+{PENNINGTON, J.; SOCHER, R.; MANNING, C. Glove: {Global} {Vectors} for {Word}
+  {Representation}. In:  \textbf{Proceedings of the 2014 {Conference} on
+  {Empirical} {Methods} in {Natural} {Language} {Processing} ({EMNLP})}. Doha,
+  Qatar: Association for Computational Linguistics, 2014. p. 1532--1543.
+  Dispon{\'\i}vel em: \url{http://aclweb.org/anthology/D14-1162}.}
+
+\bibitem[República 2018]{republica_manual_2018}
+\abntrefinfo{República}{REPúBLICA}{2018}
+{REPúBLICA, P.~d. \textbf{Manual de redação da {Presidência} da
+  {República}}. [S.l.]: Presidência da República, 2018.
+ISBN 9788585142964.}
+
+\bibitem[Rezende 2003]{rezende_sistemas_2003}
+\abntrefinfo{Rezende}{REZENDE}{2003}
+{REZENDE, S.~O. (Ed.). \textbf{Sistemas inteligentes: fundamentos e
+  aplicações}. 1. ed. ed. Barueri, SP: Ed. Manole, 2003.
+ISBN 9788520416839.}
+
+\bibitem[Rosenblatt 1958]{rosenblatt_perceptron:_1958}
+\abntrefinfo{Rosenblatt}{ROSENBLATT}{1958}
+{ROSENBLATT, F. The perceptron: {A} probabilistic model for information storage
+  and organization in the brain.
+\textbf{Psychological Review}, v.~65, n.~6, p. 386--408, 1958.
+ISSN 1939-1471, 0033-295X.
+Dispon{\'\i}vel em: \url{https://doi.apa.org/doi/10.1037/h0042519}.}
+
+\bibitem[Rumelhart, Hinton e Williams 1986]{rumelhart_learning_1986}
+\abntrefinfo{Rumelhart, Hinton e Williams}{RUMELHART; HINTON; WILLIAMS}{1986}
+{RUMELHART, D.~E.; HINTON, G.~E.; WILLIAMS, R.~J. Learning representations by
+  back-propagating errors.
+\textbf{Nature}, v.~323, p. 533--536, 1986.
+Dispon{\'\i}vel em: \url{https://api.semanticscholar.org/CorpusID:205001834}.}
+
+\bibitem[Russell e Norvig 2016]{russell_artificial_2016}
+\abntrefinfo{Russell e Norvig}{RUSSELL; NORVIG}{2016}
+{RUSSELL, S.~J.; NORVIG, P. \textbf{Artificial intelligence: a modern
+  approach}. Third edition, global edition. Boston Columbus Indianapolis:
+  Pearson, 2016.  (Prentice {Hall} series in artificial intelligence).
+ISBN 9780136042594 9781292153971.}
+
+\bibitem[Topal, Bas e Heerden 2021]{topal_exploring_2021}
+\abntrefinfo{Topal, Bas e Heerden}{TOPAL; BAS; HEERDEN}{2021}
+{TOPAL, M.~O.; BAS, A.; HEERDEN, I.~v. \textbf{Exploring {Transformers} in
+  {Natural} {Language} {Generation}: {GPT}, {BERT}, and {XLNet}}. arXiv, 2021.
+ArXiv:2102.08036.
+Dispon{\'\i}vel em: \url{http://arxiv.org/abs/2102.08036}.}
+
+\bibitem[Turing 1950]{turing_i.computing_1950}
+\abntrefinfo{Turing}{TURING}{1950}
+{TURING, A.~M. I.—{COMPUTING} {MACHINERY} {AND} {INTELLIGENCE}.
+\textbf{Mind}, LIX, n.~236, p. 433--460, out. 1950.
+ISSN 1460-2113, 0026-4423.
+Dispon{\'\i}vel em:
+  \url{https://academic.oup.com/mind/article/LIX/236/433/986238}.}
+
+\bibitem[Vaswani \textit{et al.} 2017]{vaswani_attention_2017}
+\abntrefinfo{Vaswani \textit{et al.}}{VASWANI \textit{et al.}}{2017}
+{VASWANI, A.; SHAZEER, N.; PARMAR, N.; USZKOREIT, J.; JONES, L.; GOMEZ, A.~N.;
+  KAISER, L.; POLOSUKHIN, I. \textbf{Attention {Is} {All} {You} {Need}}. arXiv,
+  2017.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/1706.03762}.}
+
+\bibitem[Wei \textit{et al.} 2022]{wei_emergent_2022}
+\abntrefinfo{Wei \textit{et al.}}{WEI \textit{et al.}}{2022}
+{WEI, J.; TAY, Y.; BOMMASANI, R.; RAFFEL, C.; ZOPH, B.; BORGEAUD, S.; YOGATAMA,
+  D.; BOSMA, M.; ZHOU, D.; METZLER, D.; CHI, E.~H.; HASHIMOTO, T.; VINYALS, O.;
+  LIANG, P.; DEAN, J.; FEDUS, W. \textbf{Emergent {Abilities} of {Large}
+  {Language} {Models}}. arXiv, 2022.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2206.07682}.}
+
+\bibitem[Weiss 2001]{weiss_multiagent_2001}
+\abntrefinfo{Weiss}{WEISS}{2001}
+{WEISS, G. (Ed.). \textbf{Multiagent systems: a modern approach to distributed
+  artificial intelligence}. 3. print. ed. Cambridge, Mass.: MIT Press, 2001.
+ISBN 9780262731317 9780262232036.}
+
+\bibitem[Wu \textit{et al.} 2023]{wu_multimodal_2023}
+\abntrefinfo{Wu \textit{et al.}}{WU \textit{et al.}}{2023}
+{WU, J.; GAN, W.; CHEN, Z.; WAN, S.; YU, P.~S. Multimodal {Large} {Language}
+  {Models}: {A} {Survey}. In:  \textbf{2023 {IEEE} {International} {Conference}
+  on {Big} {Data} ({BigData})}. Sorrento, Italy: IEEE, 2023. p. 2247--2256.
+ISBN 9798350324457. Dispon{\'\i}vel em:
+  \url{https://ieeexplore.ieee.org/document/10386743/}.}
+
+\bibitem[Xu \textit{et al.} 2024]{xu_contrastive_2024}
+\abntrefinfo{Xu \textit{et al.}}{XU \textit{et al.}}{2024}
+{XU, H.; SHARAF, A.; CHEN, Y.; TAN, W.; SHEN, L.; DURME, B. V.; MURRAY, K.;
+  KIM, Y.~J. \textbf{Contrastive {Preference} {Optimization}: {Pushing} the
+  {Boundaries} of {LLM} {Performance} in {Machine} {Translation}}. arXiv, 2024.
+Dispon{\'\i}vel em: \url{https://arxiv.org/abs/2401.08417}.}
+
+\end{thebibliography}
