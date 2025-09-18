@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.10)  10 SEP 2025 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.12)  18 SEP 2025 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2121,11 +2121,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35590 strings out of 470070
- 644663 string characters out of 5482562
+ 35599 strings out of 470070
+ 644744 string characters out of 5482562
  1261789 words of memory out of 5000000
  62911 multiletter control sequences out of 15000+600000
- 684271 words of font info for 309 fonts, out of 8000000 for 9000
+ 684946 words of font info for 315 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  104i,17n,120p,2587b,811s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -2153,7 +2153,7 @@ fb></home/devuser/.miktex/texmfs/install/fonts/type1/urw/symbol/usyr.pfb></home
 /.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/devuser/.mikte
 x/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/devuser/.miktex/texmfs
 /install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (67 pages, 771694 bytes).
+Output written on main.pdf (67 pages, 773475 bytes).
 PDF statistics:
  921 PDF objects out of 1000 (max. 8388607)
  183 named destinations out of 1000 (max. 500000)

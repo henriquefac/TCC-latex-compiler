@@ -1,0 +1,1 @@
+miktexsetup finish && initexmf --update-fndb && initexmf --mklinks && initexmf --set-config-value [MPM]AutoInstall=1

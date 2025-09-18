@@ -18,13 +18,9 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 RUN curl -fsSL https://miktex.org/download/key |  gpg --dearmor -o /usr/share/keyrings/miktex.gpg
-
-
 RUN echo "deb [signed-by=/usr/share/keyrings/miktex.gpg] https://miktex.org/download/ubuntu noble universe" |  tee /etc/apt/sources.list.d/miktex.list
-
 RUN apt-get update && apt-get install -y miktex && rm -rf /var/lib/apt/lists/*
 
-RUN miktexsetup finish && initexmf --update-fndb && initexmf --mklinks && initexmf --set-config-value [MPM]AutoInstall=1
 
 
 RUN mkdir -p /etc/sudoers.d && \
@@ -35,5 +31,8 @@ RUN mkdir -p /etc/sudoers.d && \
 
 USER devuser
 WORKDIR /workdir
+
+RUN miktexsetup finish && initexmf --update-fndb && initexmf --mklinks && initexmf --set-config-value [MPM]AutoInstall=1
+
 
 CMD ["bash"]

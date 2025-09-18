@@ -1,3 +1,10 @@
 \chapter{Metodologia}
 \label{chap:metodologia}
 
+Esta seção descreve os procedimentos desenvolvidos e adotados neste trabalho, com o objetivo de garantir uma implementação eficiente e assegurar a qualidade dos resultados. Inicialmente, apresentam-se os passos relacionados à aquisição, pré-processamento e organização dos dados, visando gerar um \textit{dataset} adequado para testar a aplicação em suas diferentes fases e validar sua eficácia. Em seguida, detalham-se as etapas de desenvolvimento da aplicação, abrangendo sua arquitetura, o fluxo de dados e a integração entre os módulos, com a descrição individual de cada componente.
+
+A metodologia para a definição do \textit{dataset} foi concebida de modo a estabelecer um conjunto de dados capaz de avaliar a qualidade dos resultados gerados pela aplicação e validar sua arquitetura. Para tanto, foi desenvolvido um módulo em Python que realiza todas as etapas necessárias à geração dos dados, desde a aquisição até o refinamento, produzindo um conjunto final que atende aos requisitos mínimos para a validação da aplicação.
+
+Os dados utilizados consistem em tuplas de arquivos PDF e áudios referentes às atas das reuniões. Para possibilitar o processamento e a análise, ambos os tipos de arquivo foram convertidos para o formato de texto: os documentos em PDF foram processados por meio de OCR utilizando o Tesseract, enquanto os arquivos de áudio foram transcritos com o modelo Whisper. Além disso, foram implementados dois módulos adicionais responsáveis pelo pré-processamento dos dados, garantindo a padronização e a limpeza das informações antes da análise.
+
+Após a definição e o pré-processamento do \textit{dataset}, a arquitetura básica do sistema desenvolvido foi projetada para receber transcrições de reuniões e gerar documentos PDF, contendo as informações necessárias dentro do modelo estabelecido. O sistema é composto por um \textit{frontend}, um \textit{backend} e dois módulos principais: um responsável pela lógica de inteligência artificial e outro dedicado à geração do documento PDF.
